@@ -1,4 +1,4 @@
-# The Tips Data Set 
+# Financial News Sentiment Prediction
 ## Zijin Yu
 
 ### Sentiment Prediction & Topic Modeling on Financial News Data
